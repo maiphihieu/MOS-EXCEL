@@ -1,0 +1,12 @@
+Donor	Lastname	Firstname	Street	City	State	Postal Code	Telephone
+1	Allen	Tony	123 Main St.	Los Angeles	CA	10642	(212) 444-0100
+2	Baker	Mary	54321 S. Strip	Las Vegas	NV	56843	(245) 678-0102
+3	Campbell	David	9483 Capital Dr.	Seatle	WA	67854	(453) 987-0102
+4	DeGrasse	Kirk	9685 Blackhawk	Orange	CA	12655	(543) 765-0199
+5	Eaton	Susan	98765 Golden Ave.	Reno	NV	56863	(567) 987-0133
+6	Fine	James	3214 LeBark St.	Eugene	OR	34567	(333) 555-0155
+7	Campbell	David	9483 Capital Dr.	Seatle	WA	67854	(453) 987-0102
+8	DeGrasse	Kirk	9685 Blackhawk	Orange	CA	12655	(543) 765-0199
+9	Eaton	Susan	98765 Golden Ave.	Reno	NV	56863	(567) 987-0133
+10	Fine	James	3214 LeBark St.	Eugene	OR	34567	(333) 555-0155
+11	Baker	Mary	54321 S. Strip	Las Vegas	NV	56843	(245) 678-0102
